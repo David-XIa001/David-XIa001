@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi 我是David
+- 😄98年出生的我是一名3年工作经验的前端开发工程师
+- 想认识更多有志于将技术实现创意小点子的小伙伴
+- 🤔伟大的项目总是从解决小的问题开始的
+#### 我做的一些小工具:
+ [json国际化小工具](https://david-xia001.github.io/JSON-internationalization/)
 
+ [敲架子鼓的小游戏](https://david-xia001.github.io/Drum-kit/)
+ 
+ ⚡ 一起加油吧!
 <!--
 **David-XIa001/David-XIa001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
