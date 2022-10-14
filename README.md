@@ -7,6 +7,8 @@
 
  [敲架子鼓的小游戏](https://david-xia001.github.io/Drum-kit/)
  
+ [视频截图小工具](https://david-xia001.github.io/ScreenshotStitching/#/stitch)
+ 
  ⚡ 一起加油吧!
 <!--
 **David-XIa001/David-XIa001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
